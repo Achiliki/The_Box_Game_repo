@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TB/Scenes/Javi_Scn.unity
     guid: caf7be3921f82394ea4a1528911758f8
+  - enabled: 1
+    path: Assets/TB/Scenes/Javi_Scn 2.unity
+    guid: ffcc55ac3cc426b458849e30210daa8f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

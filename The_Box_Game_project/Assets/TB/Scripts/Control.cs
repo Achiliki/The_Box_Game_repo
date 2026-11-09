@@ -1,7 +1,6 @@
 using System.Security.Cryptography;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class ControlMaster : MonoBehaviour
 {
